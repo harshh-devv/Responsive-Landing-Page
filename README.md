@@ -25,6 +25,22 @@ CSS3 (with Flexbox & Media Queries)
 
 Vanilla JavaScript
 
+## 🛠️ Technologies Used
+- **HTML** – For the structure of the game.
+- **CSS** – For styling and layout.
+- **JavaScript** – For game logic and interactivity.
+
+## 📂 Project Structure
+
+Type-Number-Guessing-Game/
+
+├── index.html # Main HTML file
+
+├── style.css # CSS styling
+
+└── index.js # JavaScript game logic
+
+
 📄 License
 
 This project is licensed under the MIT License — feel free to use and modify it as you like.
