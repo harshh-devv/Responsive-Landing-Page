@@ -25,4 +25,12 @@ CSS3 (with Flexbox & Media Queries)
 
 Vanilla JavaScript
 
+📄 License
+
+This project is licensed under the MIT License — feel free to use and modify it as you like.
+
+👨‍💻 Developed by Harsh Jogadiya
+
+
+
 
