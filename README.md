@@ -40,6 +40,20 @@ Type-Number-Guessing-Game/
 
 └── index.js # JavaScript game logic
 
+## 🚀 How to Run Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/harshh-devv/Type-Number-Guessing-Game.git
+   
+
+2.  Navigate to the project folder:
+   
+     ```
+     cd Type-Number-Guessing-Game
+
+3. Open index.html in your web browser.
+
+
 
 📄 License
 
