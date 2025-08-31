@@ -18,12 +18,7 @@ Play the game here : https://harshh-devv.github.io/Responsive-Landing-Page/
 
 💡 Clean and readable code structure
 
-🛠️ Technologies Used
-HTML5
 
-CSS3 (with Flexbox & Media Queries)
-
-Vanilla JavaScript
 
 ## 🛠️ Technologies Used
 - **HTML** – For the structure of the game.
@@ -43,13 +38,13 @@ Type-Number-Guessing-Game/
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/harshh-devv/Type-Number-Guessing-Game.git
+   git clone https://github.com/harshh-devv/Responsive-Landing-Page.git
    
 
 2.  Navigate to the project folder:
    
      ```
-     cd Type-Number-Guessing-Game
+     cd Responsive-Landing-page
 
 3. Open index.html in your web browser.
 
