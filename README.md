@@ -27,7 +27,7 @@ Play the game here : https://harshh-devv.github.io/Responsive-Landing-Page/
 
 ## 📂 Project Structure
 
-Type-Number-Guessing-Game/
+Responsive-Landing-Page/
 
 ├── index.html # Main HTML file
 
